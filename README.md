@@ -1,7 +1,7 @@
 # Exercise-06a-ProBuilder
 
-# References
+# zgrumish
 
 Textures from: https://freepbr.com/
 
-# Created by Nathan Mishler
+# Created Zander Grumish
